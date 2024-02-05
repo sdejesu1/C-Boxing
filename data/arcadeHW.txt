@@ -1,0 +1,3 @@
+Muhammad Ali,150,30,Heavyweight
+Mike Tyson,155,32,Heavyweight
+George Foreman,160,35,Heavyweight

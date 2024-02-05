@@ -1,0 +1,3 @@
+Manny Pacquiao,100,15,Featherweight
+Canelo Alvarez,125,25,Middleweight
+Mike Tyson,150,35,Heavyweight

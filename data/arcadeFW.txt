@@ -1,0 +1,3 @@
+Floyd Mayweather Jr,100,15,Featherweight
+Manny Pacquiao,105,17,Featherweight
+Julio Cesar Chavez,110,20,Featherweight

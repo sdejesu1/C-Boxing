@@ -1,0 +1,3 @@
+STEVEN,150,35,Heavyweight
+DEMO,125,25,Middleweight
+DEMO,100,15,Featherweight
